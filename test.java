@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SequenceAnalyzerArray {
+public class test {
 
     // --- Les données stockées directement dans un tableau de tableaux d'entiers (int[][]) ---
     private static final int[][] ALL_SEQUENCES = {
