@@ -1066,7 +1066,8 @@ public class test {
             }
         }
 
-      
+        System.out.println("-------");
+        System.out.println("📊 Résultats de l'analyse :");
         System.out.println("Nombre total de lignes analysées : " + totalLines);
         System.out.println("Nombre de rapports sur **" + validLinesCount + "**");
     }
